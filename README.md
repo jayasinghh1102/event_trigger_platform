@@ -3,8 +3,7 @@
 A FastAPI-based platform for managing scheduled and API-based event triggers with automatic event retention and archival.
 
 ## Deployed Version
-- API Endpoint: [https://event-trigger-platform.onrender.com](https://event-trigger-platform.onrender.com)
-- API Documentation: [https://event-trigger-platform.onrender.com/docs](https://event-trigger-platform.onrender.com/docs)
+- API Endpoint: [https://event-trigger-platform-yku8.onrender.com]
 
 ## Features
 - Create and manage scheduled triggers (cron or interval based)
