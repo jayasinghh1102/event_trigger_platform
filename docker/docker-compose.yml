@@ -12,7 +12,7 @@ services:
     environment:
       - DATABASE_URL=postgresql://postgres:postgres@db:5432/events_db
       - REDIS_URL=redis://redis:6379
-      - SECRET_KEY=your-secret-key-here
+      - SECRET_KEY=${SECRET_KEY}
     depends_on:
       - db
       - redis
